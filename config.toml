@@ -1,4 +1,4 @@
-baseurl = "https://sfblack8.github.io/"  # Include trailing slash
+baseurl = "https://sfblack8.com/"  # Include trailing slash
 title = "三番黑八团"
 theme = "hugo-swift-theme"
 author = "三番黑八"
